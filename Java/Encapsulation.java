@@ -28,7 +28,7 @@ class Demo
 	}
 }
 
-class Marvellous
+class Encapsulation
 {
 	public static void main(String arg[])
 	{
